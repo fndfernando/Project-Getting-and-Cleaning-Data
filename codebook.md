@@ -1,6 +1,6 @@
 # Tidy Data about Human Activity Recognition Using Smartphones Data Set - Codebook
 
-#### This experiment is about clear up a data set who was collect with voluntary using a Smartphone that have accelerometer and gyroscope so that categorize the measures in six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING). The result is a mean of all measures collected
+##### This experiment is about clear up a data set who was collect with voluntary using a Smartphone that have accelerometer and gyroscope so that categorize the measures in six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING). The result is a mean of all measures collected
 
 The measures collected were:
 
@@ -99,8 +99,8 @@ And this dates have four sub-categories:
 * Mean and Standard - indicate the value is a Mean or a Standard
 
 So that without this sub-categories we will have:
-BodyAcceleration      : The acceleration of the body
-BodyGyroscope         : The linear angular velocity
-GravityAcceleration   : The acceleration of the gravity
-BodyGyroscopeJerk     : The linear angular velocity derived Jerk signal
-BodyAccelerationJerk  : The linear acceleration derived Jerk signal
+* BodyAcceleration      : The acceleration of the body
+* BodyGyroscope         : The linear angular velocity
+* GravityAcceleration   : The acceleration of the gravity
+* BodyGyroscopeJerk     : The linear angular velocity derived Jerk signal
+* BodyAccelerationJerk  : The linear acceleration derived Jerk signal
