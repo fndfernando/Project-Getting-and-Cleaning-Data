@@ -94,9 +94,9 @@ The measures collected were:
 
 And this dates have four sub-categories:
 * Time and Frequency : Time was captured a constante rate of 50 Hz and Frequency are this date aplly a Fast Fourier Transform (FFT)
-* X,Y and Z - is used to denote the direction onde the 3 axial signals X,Y and Z
+* X,Y and Z - is used to denote the direction where the 3 axial signals X,Y and Z
 * Magnitude - the magnitude of these three-dimensional signals using the Euclidean norm
-* Mean and Standard - indicate the value is a Mean ou a Standard
+* Mean and Standard - indicate the value is a Mean or a Standard
 
 So that without this sub-categories we will have:
 BodyAcceleration      : The acceleration of the body
