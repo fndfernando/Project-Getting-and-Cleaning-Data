@@ -1,6 +1,6 @@
-Tidy Data about Human Activity Recognition Using Smartphones Data Set - Codebook
+# Tidy Data about Human Activity Recognition Using Smartphones Data Set - Codebook
 
-This experiment is about clear up a data set who was collect with voluntary using a Smartphone that have accelerometer and gyroscope so that categorize the measures in six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING). The result is a mean of all measures collected
+#### This experiment is about clear up a data set who was collect with voluntary using a Smartphone that have accelerometer and gyroscope so that categorize the measures in six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING). The result is a mean of all measures collected
 
 The measures collected were:
 
